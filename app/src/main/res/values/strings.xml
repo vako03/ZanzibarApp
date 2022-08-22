@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zanzibar App</string>
+     <string name="one">Player 1</string>
+    <string name="two">Player 2</string>
+    <string name="roll">Roll</string>
+    <string name="let_roll">Let_roll</string>
+    <string name="Roll">Roll</string>
+</resources>
